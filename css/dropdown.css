@@ -17,7 +17,7 @@
 ._dropdownBtn_03,
 ._dropdownBtn_04 {
 	width:100%;
-	height:50px;
+	height:25px;
 	position:relative;
 	background:#ffffff;
 	border:#cccccc 1px solid;
@@ -51,7 +51,8 @@
 ._dropdownContain_03 p,
 ._dropdownContain_04 p{
 	height:auto;
-	padding:10px;
+	padding:5px;
+	padding-bottom:20px !important;
 	}
 
 	

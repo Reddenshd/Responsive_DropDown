@@ -21,7 +21,7 @@ function dropDownActive(){
 	
 	function dropDownOpen(){
 		var heightSet = $("._dropdownContain_"+ vSet + ' p').height(); 
-	   $("._dropdownContain_" + vSet).animate({height: heightSet + 10  + "px"});
+	   $("._dropdownContain_" + vSet).animate({height: heightSet + 25  + "px"});
 	}
 	
 	function dropDownClose(){$("._dropdownContain_" + vSet).animate({height: "0px"});}
